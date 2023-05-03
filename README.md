@@ -19,4 +19,4 @@ There is not sufficient documentation in the code to fully understand what the p
 
 General Comments 
 
-This is a good solution that adequately address the problem. The student demostrates good understanding logical thinking and good use various concepts such as data structures, loops and conditional statements. 
+This is a good solution that adequately address the problem. The student demostrates good understanding logical thinking and good use various concepts such as data structures, loops and conditional statements. Only a few syntax issues such as indentation and variable naming need to be improved on.
